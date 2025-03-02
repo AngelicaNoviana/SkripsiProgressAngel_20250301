@@ -1,0 +1,12 @@
+nltk
+requests 
+beautifulsoup4 
+pandas
+numpy
+PyPDF2
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+scikit-learn
